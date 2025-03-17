@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Markdown转Word文档转换器
 
 这是一个基于PHP和Pandoc的Markdown转Word文档(DOCX)转换工具。它提供了一个简单的HTTP API接口，可以将Markdown格式的文本转换为Word文档格式。
